@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/React_Portfolio/static/css/main.b905d21a.chunk.css",
+    "main.js": "/React_Portfolio/static/js/main.1b4d7172.chunk.js",
+    "main.js.map": "/React_Portfolio/static/js/main.1b4d7172.chunk.js.map",
+    "runtime-main.js": "/React_Portfolio/static/js/runtime-main.446e9683.js",
+    "runtime-main.js.map": "/React_Portfolio/static/js/runtime-main.446e9683.js.map",
+    "static/js/2.0e0517ae.chunk.js": "/React_Portfolio/static/js/2.0e0517ae.chunk.js",
+    "static/js/2.0e0517ae.chunk.js.map": "/React_Portfolio/static/js/2.0e0517ae.chunk.js.map",
+    "index.html": "/React_Portfolio/index.html",
+    "precache-manifest.79a965f6abd5b5fd876e15a942eee0ef.js": "/React_Portfolio/precache-manifest.79a965f6abd5b5fd876e15a942eee0ef.js",
+    "service-worker.js": "/React_Portfolio/service-worker.js",
+    "static/css/main.b905d21a.chunk.css.map": "/React_Portfolio/static/css/main.b905d21a.chunk.css.map",
+    "static/js/2.0e0517ae.chunk.js.LICENSE.txt": "/React_Portfolio/static/js/2.0e0517ae.chunk.js.LICENSE.txt",
+    "static/media/Hexlylogo.png": "/React_Portfolio/static/media/Hexlylogo.428400c9.png",
+    "static/media/avatar.png": "/React_Portfolio/static/media/avatar.286364c6.png",
+    "static/media/mern-stack.jpg": "/React_Portfolio/static/media/mern-stack.90616a5d.jpg",
+    "static/media/nextgenLogo.png": "/React_Portfolio/static/media/nextgenLogo.1b65f8e4.png",
+    "static/media/p-2.jpg": "/React_Portfolio/static/media/p-2.730958a2.jpg",
+    "static/media/react-redux.jpg": "/React_Portfolio/static/media/react-redux.a8b012a0.jpg",
+    "static/media/react.png": "/React_Portfolio/static/media/react.f370c1e0.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.446e9683.js",
+    "static/js/2.0e0517ae.chunk.js",
+    "static/css/main.b905d21a.chunk.css",
+    "static/js/main.1b4d7172.chunk.js"
+  ]
+}
