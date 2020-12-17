@@ -1,0 +1,26 @@
+
+.progress {
+	background-color: #d8d8d8;
+	border-radius: 20px;
+	position: relative;
+	height: 15px;
+    width: 15rem;
+    margin-top: 1rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+
+.progress-done {
+	background: linear-gradient(to left, #F2709C, #FF9472);
+	box-shadow: 0 3px 3px -5px #F2709C, 0 2px 5px #F2709C;
+	border-radius: 20px;
+    color: #fff;
+    font-size: 9px;
+	display: flex;
+	height: 100%;
+    width: 0;
+    text-align: center;
+	opacity: 0;
+    transition: 1s ease 0.3s;
+   
+}
